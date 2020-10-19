@@ -1,3 +1,3 @@
-# SnackityUI
+# Documentation
 
-Create dynamic UI components for Unity3D with XML.
+- [Getting started](getting-started.md)
